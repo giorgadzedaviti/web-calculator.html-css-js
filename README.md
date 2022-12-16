@@ -1,2 +1,1 @@
-# web-calculator.html-css-js
-new repo calculator
+# calculator.js-html-css
